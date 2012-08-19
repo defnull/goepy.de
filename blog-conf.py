@@ -16,7 +16,13 @@ GITHUB_URL = 'http://github.com/defnull/goepy.de'
 
 #MENUITEMS = (('Home','/blog'),)
 
-#LINKS = (('Docs','http://bottlepy.org/'),)
+LINKS = (
+  ('python.org','http://python.org/'),
+  ('Deutsches Python Forum','http://python-forum.de/'),
+  ('Python Wiki','http://wiki.python.de'),
+  ('Python Stammtisch Hannover','http://www.python-hannover.de'),
+)
+      
 
 #SOCIAL = (('twitter', 'http://twitter.com/bottlepy'),
 #          ('github', 'http://github.com/defnull'),)
