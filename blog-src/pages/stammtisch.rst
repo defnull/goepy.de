@@ -18,6 +18,6 @@ Termine werden hier im Blog und auf der Mailingliste bekannt gegeben.
 Kontakt
 -------
 
-* Mailingliste: goepy@lists.cccgoe.de (`https://lists.cccgoe.de/mailman/listinfo/goepy`_)
+* Mailingliste: goepy@lists.cccgoe.de - https://lists.cccgoe.de/mailman/listinfo/goepy
 * Blog & News:  http://goepy.de/
 
