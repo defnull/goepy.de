@@ -1,4 +1,4 @@
-.PHONY: clean
+.PHONY: clean new
 
 build: venv
 	. venv/bin/activate; pelican -vs blog-conf.py -o htdocs/blog/ blog-src/
@@ -8,6 +8,9 @@ deploy: build
 
 clean:
 	rm -rfv output
+
+new:
+	bash make_post.sh
 
 venv: venv/bin/activate
 
