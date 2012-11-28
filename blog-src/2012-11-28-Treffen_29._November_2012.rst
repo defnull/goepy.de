@@ -1,0 +1,25 @@
+Treffen 29. November 2012
+###############################################################################
+
+:date: 2012-11-22 14:10
+:author: Marcel Hellkamp
+:category: Termine
+
+Wie immer findet am **letzten Donnerstag im Monat** unser User Group Treffen im NokLab statt. Das ist diese Woche, nur als Erinnerung.
+
+Oliver hatte auf der Mailing-Liste angefragt, ob sich jemand mit Django, Jython oder
+einem Java Servlet-Container alla Jetty aus kennt. Selbst wenn sich am Donnerstag kein Experte einfindet, können wir das Thema sicher mal aufgreifen.
+Andere Themenvorschläge:
+
+* Organisatorisches: Die letzten beiden Termine wurden etwas kurzfristig bestätigt. Damit man die Treffen besser voraus planen kann, sollte sich jemand finden, der mich zur Not vertreten könnte.
+* Ich baue gerade an einer Chat-Software namens *rchat*. Sie basiert auf  Bottle, Gevent, WebSockets und haufenweise JavaScript. Bei Interesse kann ich davon etwas erzählen.
+* Für Bottle selbst gab es ein Release und die nächste Version bringt ein paar aufwendigere Neuerungen mit sich. Ein kleiner Sprint wäre super, ein bisschen Feedback ebenfalls.
+
+Ort und Zeit
+------------
+
+Die Treffen finden in den Räumlichkeiten des `Göttinger CCC <http://cccgoe.de>`_ statt. Dort gibt es Platz, Netz, Beamer und Getränke. Der Bahnhof ist in 5 Minuten zu Fuß erreichbar. Ich bin ab 18.00 Uhr im Raum. Um 19:00 Uhr geht es offiziell los.
+
+* **Adresse:** Neustadt 7, 37073 Goettingen 
+* **Koordinaten:** 9° 55' 48,1"O, 51° 32' 03,2"N
+

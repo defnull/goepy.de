@@ -3,8 +3,7 @@ Erstes Treffen September 2012
 
 :date: 2012-09-12 15:12
 :author: Marcel Hellkamp
-:category: Aktuell
-:tags: Termin
+:category: Termine
 
 Der Termin für unser erste offizielles Treffen steht fest:
 

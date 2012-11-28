@@ -1,0 +1,17 @@
+Treffen: 25. Oktober 2012
+###############################################################################
+
+:date: 2012-10-22 21:41
+:author: Marcel Hellkamp
+:category: Termine
+
+Eine kleine Erinnerung für alle, die nicht auf der Mailing-Liste sind: Das nächste treffen findet **diesen Donnerstag** statt:
+
+Donnerstag 25. Oktober 2012, 19:00 Uhr im Noklab, Neustadt 7, 37073 G<F6>ttingen
+
+Da das Semester gerade anfängt, gehe ich nicht von allzu vielen Teilnehmern aus. Daher gibt es keine festen Themen, ich habe aber folgende Talks/Workshops vorbereitet, wenn sich Interessenten finden:
+
+* REST Entwicklung mit Bottle
+* WebSockets mit Bottle und gevent
+* 2D Grafik mit pycairo
+* 2D/3D mit pyglet (OpenGL)
