@@ -10,7 +10,7 @@ Das Jahr 2012 neigt sich dem Ende zu. Daher wünschen wir allen Python-Freunden f
 
 **Am 27.12.2012 findet keine Python User Group statt.**
 
-Das nächste Treffen ist für den 31.01.2012 geplant. Weitere Informationen folgen.
+Das **nächste Treffen** ist für den **31.01.2013** geplant. Weitere Informationen folgen.
 
 
 
