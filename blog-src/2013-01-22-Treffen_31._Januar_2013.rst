@@ -1,0 +1,50 @@
+Treffen 31. Januar 2013
+###############################################################################
+
+:date: 2013-01-22 17:41
+:author: Oliver Schmitt
+:category: Aktuell
+:tags: Termin
+
+-- ENGLISH TEXT BELOW --
+
+Wir wünschen allen Python-Freunden ein frohes Neues Jahr 2013!
+
+Das nächste Treffen findet **nächsten Donnerstag** statt.
+
+Am 31. Januar 2013, 19:00 Uhr im Noklab, Neustadt 7, 37073 Göttingen.
+
+**Wir stellen den Abend unter das Motto RESTful Webservices**
+
+**1.) Einführung in Webservices mit REST**
+
+* Was ist REST?
+* Was sind die Grundlagen von HTTP?
+* Wie sieht es aus mit Datenkodierung (XML/JSON)?
+* Welche Authentifizierungsmechanismen findet man In-the-wild?
+
+**2.) Programmierung von RESTful-Webservices in Python mit Bottle**
+
+Bei Fragen bitte auf die Mailingliste posten.
+
+-- ENGLISH TEXT --
+
+We wish all Python-Friends a Happy New Year 2013!
+
+The next meeting will take place **next Thursday**.
+
+On the 31st January 2013, 7 pm at the Noklab, Neustadt 7, 37073 Göttingen.
+
+**The evening focused on RESTful Webservices**
+
+**1.) What are Webservices using REST**
+
+* What is REST?
+* What are the HTTP-basics?
+* What about data encoding (XML/JSON)?
+* What authentification mechanisms can be found in the wild?
+
+**2.) Programming a RESTful-webservice in Python using Bottle**
+
+If you have any question, please post them on the mailing list.
+
