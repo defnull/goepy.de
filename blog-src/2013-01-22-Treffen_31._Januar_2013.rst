@@ -8,15 +8,15 @@ Treffen 31. Januar 2013
 
 -- ENGLISH TEXT BELOW --
 
-Wir wünschen allen Python-Freunden ein frohes Neues Jahr 2013!
+Wir wÃ¼nschen allen Python-Freunden ein frohes Neues Jahr 2013!
 
-Das nächste Treffen findet **nächsten Donnerstag** statt.
+Das nÃ¤chste Treffen findet **nÃ¤chsten Donnerstag** statt.
 
-Am 31. Januar 2013, 19:00 Uhr im Noklab, Neustadt 7, 37073 Göttingen.
+Am 31. Januar 2013, 19:00 Uhr im Noklab, Neustadt 7, 37073 GÃ¶ttingen.
 
 **Wir stellen den Abend unter das Motto RESTful Webservices**
 
-**1.) Einführung in Webservices mit REST**
+**1.) EinfÃ¼hrung in Webservices mit REST**
 
 * Was ist REST?
 * Was sind die Grundlagen von HTTP?
@@ -33,7 +33,7 @@ We wish all Python-Friends a Happy New Year 2013!
 
 The next meeting will take place **next Thursday**.
 
-On the 31st January 2013, 7 pm at the Noklab, Neustadt 7, 37073 Göttingen.
+On the 31st January 2013, 7 pm at the Noklab, Neustadt 7, 37073 GÃ¶ttingen.
 
 **The evening focused on RESTful Webservices**
 

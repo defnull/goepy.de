@@ -10,26 +10,26 @@ Ostern und Treffen am 04.04.2013
 
 Liebe Python-Freunde,
 
-leider fällt das Python-User Group-Meeting für März fast auf Ostern und
-daher sind viele von Euch nicht mehr in Göttingen.
+leider fÃ¤llt das Python-User Group-Meeting fÃ¼r MÃ¤rz fast auf Ostern und
+daher sind viele von Euch nicht mehr in GÃ¶ttingen.
 
-Daher verlegen wir das nächste Meeting auf
+Daher verlegen wir das nÃ¤chste Meeting auf
 
 DONNERSTAG, 04.04.2013, 19:00 Uhr.
 
-Wie immer treffen wir uns im Noklab, Neustadt 7, 37073 Göttingen.
+Wie immer treffen wir uns im Noklab, Neustadt 7, 37073 GÃ¶ttingen.
 Link in Google-Maps: http://goo.gl/DPR9c
 
 Da wir das letzte mal nur wenige Leute waren, greifen wir nochmal die
 Themen von letzten mal auf:
 
-* Einführung 2D Grafik (Konzepte und Begriffe)
-* Welche Möglichkeiten und Bibliotheken gibt es?
+* EinfÃ¼hrung 2D Grafik (Konzepte und Begriffe)
+* Welche MÃ¶glichkeiten und Bibliotheken gibt es?
 * Kurz vorgestellt: cairo, pygame, pyglet, cocos2d
-* Einführung in die kollaborative Entwicklerplattform ChiliProject
+* EinfÃ¼hrung in die kollaborative Entwicklerplattform ChiliProject
 
-Fragen bitte über die Mailingliste.
-Viele Grüße und schöne Ostern
+Fragen bitte Ã¼ber die Mailingliste.
+Viele GrÃ¼ÃŸe und schÃ¶ne Ostern
 
 Marcel und Oliver
 
@@ -42,7 +42,7 @@ Holidays. Therefore we postpone the meeting to:
 
 THURSDAY, 04/04/2013, 19:00
 
-Will meet us in the Noklab, Neustadt 7, 37073 Göttingen.
+Will meet us in the Noklab, Neustadt 7, 37073 GÃ¶ttingen.
 
 Link in Google-Maps: http://goo.gl/DPR9c
 
@@ -57,4 +57,3 @@ topic from the last meeting.
 Please post questions to the mailinglist.
 Happy Easter!
 Marc and Oliver
-

@@ -12,14 +12,14 @@ Liebe Python-Freunde,
 
 im April ist wieder Python-User Group.
 
-Das nächste Treffen ist am
+Das nÃ¤chste Treffen ist am
 
 DONNERSTAG, 25.04.2013, 19:00 Uhr.
 
-Wie immer treffen wir uns im Noklab, Neustadt 7, 37073 Göttingen.
+Wie immer treffen wir uns im Noklab, Neustadt 7, 37073 GÃ¶ttingen.
 Link in Google-Maps: http://goo.gl/DPR9c
 
-Ein Thema für diesen Monat sind **Software Defined Networks (SDN) und Python**.
+Ein Thema fÃ¼r diesen Monat sind **Software Defined Networks (SDN) und Python**.
 
 Hierzu gibt einen kurzen Talk (auf Englisch) von Siamak Azodomolky, SDN-Spezialist bei der GWDG und danach Gelegenheit zur Diskussion
 
@@ -27,9 +27,9 @@ Hierzu gibt einen kurzen Talk (auf Englisch) von Siamak Azodomolky, SDN-Speziali
 
 *Software Defined Networking (SDN) is one of the recent and hot topics in computer networking which refers to the process of decoupling the control and management of networking equipments from their fast packet forwarding functionality. In this talk the concept of SDN along with the resulting platform for innovation and development of network application will be presented. Python language is one of the widely used languages for rapid network application development. Interested Python developers can enjoy this development platform to materialize their innovations in network programming.*
 
-Weitere Themen und Wünsche wie immer über die Mailingliste.
+Weitere Themen und WÃ¼nsche wie immer Ã¼ber die Mailingliste.
 
-Viele Grüße und bis Donnerstag
+Viele GrÃ¼ÃŸe und bis Donnerstag
 
 Marcel und Oliver
 
@@ -41,7 +41,7 @@ the next Python-Meeting is approaching. The next meeting is on
 
 THURSDAY, 04/25/2013, 19:00
 
-Will meet us in the Noklab, Neustadt 7, 37073 Göttingen.
+Will meet us in the Noklab, Neustadt 7, 37073 GÃ¶ttingen.
 
 Link in Google-Maps: http://goo.gl/DPR9c
 
