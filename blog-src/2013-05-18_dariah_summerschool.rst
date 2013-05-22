@@ -9,6 +9,12 @@ DARIAH-DE Summer-School - Pythonkurs für Geisteswissenschaftler in Göttingen
 Liebe Geisteswissenschaftler, liebe Python-Freunde,
 
 .. image:: http://de.dariah.eu/fileadmin/templates/darkside/logos/DARIAH-DE.png
+
+.
+
+.. image:: http://www.gcdh.de/themes/GCDH/images/gcdh_logo_highres.png
+
+.
  
 vom 19.–23. August organisieren DARIAH-DE und GCDH eine internationale Summer-School zu den Digital Humanities.
  
