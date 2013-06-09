@@ -27,6 +27,8 @@ Zunächst geben wir eine Einführung in Cloud-Computing und zeigen, welche grund
 **Python und Microsoft Windows Azure**
 
 Oliver stellt den Python-Support von Microsoft Windows Azure vor und gibt eine Einführung in die Tools und das SDK.
+Hier ist der Link zum Visual-Studio Tutorial Projekt http://goepy.de/blog/static/static/WindowsAzure_Tutorial.zip
+
 
 **Google App Engine**
 
