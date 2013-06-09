@@ -13,7 +13,7 @@ DEFAULT_ORPHANS = 3
 DEFAULT_PAGINATION = 10
 
 GITHUB_URL = 'http://github.com/defnull/goepy.de'
-THEME = './pelican-themes/bootstrap2'
+#THEME = './pelican-themes/bootstrap2'
 
 #MENUITEMS = (('Home','/blog'),)
 
