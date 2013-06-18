@@ -1,4 +1,4 @@
-Treffen 28. Juni 2013
+Treffen 25. Juli 2013
 ###############################################################################
 
 :date: 2013-06-10 15:00
@@ -10,7 +10,7 @@ Liebe Python-Freunde,
 
 es ist wieder Python-Usegroup am
 
-**DONNERSTAG, 28.06.2013, 19:00 Uhr**
+**DONNERSTAG, 25.07.2013, 19:00 Uhr**
 
 Treffpunkt ist im `Noklab <https://cccgoe.de/wiki/Noklab/>`_, Neustadt 7, 37073 Göttingen (`Google-Maps <http://goo.gl/DPR9c>`_)
 
