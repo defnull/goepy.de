@@ -16,7 +16,7 @@ Treffpunkt ist im `Noklab <https://cccgoe.de/wiki/Noklab/>`_, Neustadt 7, 37073 
 
 Diesmal geht es um den **Raspberry Pi**,
 
-einen kleinen Computer mit einem 700-MHz-Hauptprozessor ARM-Prozessor sowie 256-512 MB Arbeitsspeicher der rund 30 Euro kostet.
+einen kleinen Computer mit einem 700-MHz-Hauptprozessor ARM-Prozessor sowie 128-512 MB Arbeitsspeicher der rund 30 Euro kostet.
 Auf dem Rasberry Pi läuft Linux einwandfrei und es gibt zahlreiche IO-Pins für Hardware-Basteileien.
 
 Bei diesem Termin schauen wir uns den Raspberry Pi im Detail an und geben eine kurze Einführung in die Programmierung mit Python.
