@@ -1,0 +1,34 @@
+Treffen 20. März 2014
+###############################################################################
+
+:date: 2014-03-15 15:00
+:author: Oliver Schmitt
+:category: Aktuell
+:tags: Termin
+
+Liebe Python-Freunde,
+
+es ist mal wieder so weit. Wie immer treffen wir uns jeden *vorletzten* Donnerstag im Monat. 
+
+Deshalb ist wieder Python-Usergroup im Noklab und zwar am
+
+**DONNERSTAG, 20.03.2014, 19:00 Uhr**
+
+Treffpunkt ist das `Noklab <https://cccgoe.de/wiki/Noklab/>`_, Neustadt 7, 37073 Göttingen (`Google-Maps <http://goo.gl/DPR9c>`_)
+
+Das Treffen diesmal beleuchtet verschiedene Chat-Protokolle und wie man diese in Python implementieren kann. Marcel gibt eine Einführung in das Extensible Messaging and Presence Protocol (XMPP), das u.a. bei Whatsapp Anwendung findet und Oliver übernimmt dann mit einer Einführung in das Protokoll des Internet Relay Chats (IRC). Für Python-Programmierer, die ihren eigenen Messenger oder Chat-Client in Python bauen wollen oder einfach einen Bot für IRC oder XMPP schreiben wollen, ist es eine gute Gelegenheit in das Thema einzusteigen.  
+
+.. image:: http://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/JabberNetwork.svg/500px-JabberNetwork.svg.png
+           :width: 432 px
+
+Quelle: `Wikimedia Commons <http://commons.wikimedia.org/wiki/File:JabberNetwork.svg>`_
+
+Kaffee und Getränke sind zum Selbstkostenpreis auch da. Ansonsten bringt gerne Eure Laptops mit.
+
+Viele Grüße und Happy Coding
+Marcel und Oliver
+
+
+
+
+
