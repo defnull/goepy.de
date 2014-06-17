@@ -1,0 +1,27 @@
+Treffen 19. Juni 2014
+###############################################################################
+
+:date: 2014-06-17 21:02
+:author: Oliver Schmitt
+:category: Aktuell
+:tags: Termin
+
+Liebe Python-Freundinnen, liebe Python-Freunde,
+
+es ist mal wieder so weit! Wie immer treffen wir uns jeden vorletzten Donnerstag im Monat.
+
+Deshalb ist wieder Python-Usergroup im Noklab und zwar am
+
+übermorgen, DONNERSTAG, 19.06.2014, 19:00 Uhr
+
+Treffpunkt ist das Noklab, Neustadt 7, 37073 Göttingen
+
+Themen diesmal ist unter anderem das Zeichnen von Grafiken und Diagrammen mit Python. Dazu schauen wir uns unter anderem das Tool Gephi an.
+Wir zeigen wie man aus Datensätzen wie Logdateien schnell Graphen
+mit Knoten und Kanten in Python errechnet, um anschließen die Logdaten
+mit verschiedenen Layout-Algorithmen zu visualisieren.
+
+Kaffee, WiFi und Getränke sind zum Selbstkostenpreis auch da. Bringt gerne Eure Laptops mit.
+
+Viele Grüße und Happy Coding
+Marcel und Oliver
