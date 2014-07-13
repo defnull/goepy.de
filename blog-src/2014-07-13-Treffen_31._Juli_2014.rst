@@ -1,0 +1,23 @@
+Treffen 31. Juli 2014
+###############################################################################
+
+:date: 2014-07-13 18:04
+:author: Marcel Hellkamp
+:category: Aktuell
+:tags: Termin
+
+Hi Leute,
+
+diesen Monat findet das Treffen ausnahmsweise am *letzten Donnerstag* im Juli statt.
+
+**Donnerstag, 31.07.2014, 19:00 Uhr**
+
+Treffpunkt ist wie immer das `Noklab <https://cccgoe.de/wiki/Noklab/>`_, Neustadt 7, 37073 Göttingen (`Google-Maps <http://goo.gl/DPR9c>`_) 
+
+Dieses mal möchte ich etwas über `gevent <http://gevent.org/>`_ und die so genannten *greenlets* erzählen. Wofür man sie braucht, wie sie funktionieren und warum sie so hervorragend für Netzwerk- oder andere IO-lastige Aufgaben geeignet sind.
+ 
+Wir schreiben einen kleinen Chat-Server, der mit beliebig vielen gleichzeitigen Verbindungen klar kommt und vergleichen den Ansatz mit traditionellen Threads.
+
+Ich hoffe das klingt Interessant, wir sehen uns dann.
+
+Oliver und Marcel.
