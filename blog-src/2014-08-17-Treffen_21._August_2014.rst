@@ -1,0 +1,30 @@
+Treffen 21. Augsut 2014
+###############################################################################
+
+:date: 2014-08-17 20:18
+:author: Oliver Schmitt
+:category: Aktuell
+:tags: Termin
+
+Liebe Freundinnen, liebe Freunde,
+
+das Treffen der Göttingen Python-Usergroup findet wie immer am vorletzten Donnerstag im Monat statt und zwar am:
+
+**Donnerstag, 21.08.2014, 19:00 Uhr**
+
+Treffpunkt ist im `Noklab <https://cccgoe.de/wiki/Noklab/>`_, Neustadt 7, 37073 Göttingen (`Google-Maps <http://goo.gl/DPR9c>`_) 
+
+Theme diesmal ist **Python 2 vs. Python 3**.
+
+Wir beschäftigen uns mit den Unterschieden zwischen Python Version 2.x und 3.x und versuchen die häufigsten Fragen zu den Versionen zu klären. Dabei wollen wir schauen, ob sich neuen Projekte in Version 2.x noch lohnen, was die gravierensten Unterschiede zwischen den Versionen sind und wie man Code schreibt, der zu allen Versionen kompatibel ist. 
+
+
+.. Image:: https://i.imgflip.com/b8nuj.jpg
+           :width: 432 px
+
+
+Wir hoffen, dass für alle Python-Freunde was dabei ist, egal ob Newbie oder schon erfahrener Programmierer.
+
+Viele Grüße und dann bis kommenden Donnerstag
+
+Oliver und Marcel.
