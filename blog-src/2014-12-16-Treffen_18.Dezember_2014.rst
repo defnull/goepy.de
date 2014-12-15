@@ -1,0 +1,42 @@
+Treffen 18. Dezember 2014
+###############################################################################
+
+:date: 2014-12-16 20:23
+:author: Oliver Schmitt
+:category: Aktuell
+:tags: Termin
+
+Liebe Python-Freundinnen, liebe Python-Freunde,
+
+es ist WEIHNACHTS-PYTHON-USERGROUP MEETING
+
+zwar am
+
+DONNERSTAG, 18.12.2014, 19:00 Uhr
+
+Treffpunkt ist das Noklab, Neustadt 7, 37073 Göttingen
+
+Diesmal steht auf dem Programm:
+
+1.) Gemeinsames Essen (Indisch / Pizza / ...)
+
+2.) Programmieren eines Weihnachtsbaum in Python:
+
+Anregungen zum Nachprogrammieren:
+
+1.) tikz und Latex für schöne 3D Bäume:
+
+http://goo.gl/23fw4t
+
+
+2.) ASCII:
+
+http://goo.gl/xdaSTo
+
+
+3.) Python:
+
+http://goo.gl/4uvpAM
+
+Viele Grüße und bis Donnerstag
+Marcel und Oliver
