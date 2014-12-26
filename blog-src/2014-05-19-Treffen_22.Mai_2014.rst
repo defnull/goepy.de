@@ -1,0 +1,43 @@
+Treffen 22. Mai 2014
+###############################################################################
+
+:date: 2014-05-19 22:00
+:author: Oliver Schmitt
+:category: Aktuell
+:tags: Termin
+
+Liebe Python-FreundInnen,
+
+es ist mal wieder so weit. Wie immer treffen wir uns jeden *vorletzten* Donnerstag im Monat. 
+
+Deshalb ist wieder Python-Usergroup im Noklab und zwar am
+
+**DONNERSTAG, 22.05.2014, 19:00 Uhr**
+
+Treffpunkt ist das `Noklab <https://cccgoe.de/wiki/Noklab/>`_, Neustadt 7, 37073 Göttingen (`Google-Maps <http://goo.gl/DPR9c>`_)
+
+Themen diesmal ist unter anderem das Projekt "PixelFlut", das bereits auf dem Easterhegg 2014 in Stuttgart viel Interesse auf sich gezogen hat.
+
+.. image:: http://goepy.de/blog/static/static/pixelflut.png
+           :width: 432 px
+
+Im Treffen schauen wir uns das Protokoll an und bauen uns einen Sender für Bilder (PNG, animierte gifs wären toll), vielleicht schaffen wir auch einen kleinen Film mit Python auf den Beamer zu streamen.
+
+Das ganze Projekt ist auf GIT-Hub zu finden:
+
+`https://github.com/defnull/pixelflut <https://github.com/defnull/pixelflut>`_
+
+und hier gibt es ein Video mit der Session von Easterhegg 2014:
+
+`http://vimeo.com/92827556 <http://vimeo.com/92827556>`_
+
+Ansonsten werfen wir noch einen Blick auf Design Patterns und deren Verwendung in Python und blicken in die Projekten der Gruppenmitglieder.
+
+Kaffee, WiFi und Getränke sind zum Selbstkostenpreis auch da. Ansonsten bringt gerne Eure Laptops mit.
+
+Viele Grüße und Happy Coding
+
+Marcel und Oliver
+
+
+

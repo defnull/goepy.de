@@ -1,0 +1,26 @@
+Treffen 20. Februar 2014
+###############################################################################
+
+:date: 2014-02-19 18:01
+:author: Marcel Hellkamp
+:category: Aktuell
+:tags: Termin
+
+Liebe Python-Freunde,
+
+es ist mal wieder so weit. Wie schon im Januar treffen 
+wir uns inzwischen jeden *vorletzten* Donnerstag im Monat. 
+
+Deshalb ist wieder Python-Usergroup im Noklab und zwar am
+
+**DONNERSTAG, 20.02.2014, 20:00 Uhr**
+
+wir treffen uns im `Noklab <https://cccgoe.de/wiki/Noklab/>`_, Neustadt 7, 37073 Göttingen (`Google-Maps <http://goo.gl/DPR9c>`_)
+
+Viele Grüße
+Marcel und Oliver
+
+
+
+
+

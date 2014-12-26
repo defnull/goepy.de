@@ -3,6 +3,9 @@
 build: venv
 	. venv/bin/activate; pelican -vs blog-conf.py -o htdocs/blog/ blog-src/
 
+preview: build
+	python -m webbrowser htdocs/blog/index.html
+
 deploy: build
 	rsync -r htdocs/ marc@goepy.de:goepy.de/htdocs/
 

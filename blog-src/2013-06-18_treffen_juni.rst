@@ -21,6 +21,8 @@ Aber als kleines Thema gibt es **Jython**
 Wir wollen zeigen, wie man Python auf der Java Virtual Machine laufen lassen kann und wie man Java Bibliotheken in Python nutzt.
 Außerdem kann man mit Jython schnell (grafische) Python-Anwendungen bauen, die auf vielen Betriebssystemen laufen, ohne dass eine Python installation nötig ist.
 
+Hier sind die Beispielquelltexte für Jython: http://goepy.de/blog/static/static/Jython_beispiele.zip 
+
 .. image:: http://www.jython.org/css/jython.png
 
 Bildquelle: `Jython Projekt Webseite <http://www.jython.org/>`_
