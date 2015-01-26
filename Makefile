@@ -2,6 +2,7 @@
 
 build: venv
 	. venv/bin/activate; pelican -vs blog-conf.py -o htdocs/blog/ blog-src/
+	chmod -R +rX htdocs
 
 preview: build
 	python -m webbrowser htdocs/blog/index.html
