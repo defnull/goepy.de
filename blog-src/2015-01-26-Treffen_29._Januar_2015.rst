@@ -1,0 +1,19 @@
+Treffen 29. Januar 2015
+###############################################################################
+
+:date: 2015-01-26 15:11
+:author: Marcel Hellkamp
+:category: Aktuell
+:tags: Termin
+
+Für das erste Treffen im Jahr 2015 stehen diesmal mehrere Themen zur Wahl:
+
+* **CouchDB:** Aufbau von Datenaggregationen und View mit Map-Reduce und Datenhaltung auf der Festplatte (oliver)
+* **asyncio:** Theorie und Praxis der neuen Netzwerk Bibliothek (marc)
+* **Git Workflow:** GIT Versionskontrolle in der Praxis. (marc)
+
+Wie immer beginnen wir um **20:00 Uhr** und teffen uns im `Noklab <https://cccgoe.de/wiki/Noklab/>`_, Neustadt 7, 37073 Göttingen (`Google-Maps <http://goo.gl/DPR9c>`_) des CCC Götingen. 
+
+Viele Grüße
+Marcel und Oliver
+
