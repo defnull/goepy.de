@@ -2,8 +2,8 @@ Treffen 30. Mai 2013
 ###############################################################################
 
 :date: 2013-05-20 13:01
-:author: Oliver Schmitt
-:category: Aktuell
+:author: Oliver Wannenwetsch
+:category: Termine
 :tags: Termin
 
 Liebe Python-Freunde,

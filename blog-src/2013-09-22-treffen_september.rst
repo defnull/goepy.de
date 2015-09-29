@@ -2,8 +2,8 @@ Treffen 26. September 2013
 ###############################################################################
 
 :date: 2013-09-22 19:06
-:author: Oliver Schmitt
-:category: Aktuell
+:author: Oliver Wannenwetsch
+:category: Termine
 :tags: Termin
 
 Liebe Python-Freunde,

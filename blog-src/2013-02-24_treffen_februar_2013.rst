@@ -3,7 +3,7 @@ Treffen 28. Februar 2013
 
 :date: 2013-02-24 17:41
 :author: Marcel Hellkamp
-:category: Aktuell
+:category: Termine
 :tags: Termin
 
 Das nächste Treffen findet **nächsten Donnerstag** statt.

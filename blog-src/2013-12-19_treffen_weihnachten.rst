@@ -2,8 +2,8 @@ Treffen 19. Dezember 2013
 ###############################################################################
 
 :date: 2013-12-16 22:45
-:author: Oliver Schmitt
-:category: Aktuell
+:author: Oliver Wannenwetsch
+:category: Termine
 :tags: Termin
 
 Liebe Python-Freunde,

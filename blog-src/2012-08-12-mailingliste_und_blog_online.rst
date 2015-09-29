@@ -3,7 +3,7 @@ Mailingliste und Homepage online
 
 :date: 2012-08-19 21:58:50
 :author: Marcel Hellkamp
-:category: Aktuell
+:category: Termine
 
 Das Projekt `goe.py` nimmt Form an. Wir haben seit heute eine `Mailingliste <https://lists.cccgoe.de/mailman/listinfo/goepy>`_ und einen `Blog <http://goepy.de/blog/>`_ für Neuigkeiten und Termine. Man kann den heutigen Tag also getrost als Gründungstag der `Göttinger Python User Group` betrachten. Das erste Treffen rückt in greifbare Nähe.
 

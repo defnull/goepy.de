@@ -3,7 +3,7 @@ Treffen 20. Februar 2014
 
 :date: 2014-02-19 18:01
 :author: Marcel Hellkamp
-:category: Aktuell
+:category: Termine
 :tags: Termin
 
 Liebe Python-Freunde,

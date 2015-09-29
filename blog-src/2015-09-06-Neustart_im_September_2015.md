@@ -1,7 +1,7 @@
 Title: Neustart im September 2015
 Date: 2015-09-06 19:45
-Category: Aktuell
-Tags: Termin
+Category: Termine
+Tags: Termine
 Authors: Oliver Wannenwetsch
 
 Liebe Python-Freundinnen und Freunde,

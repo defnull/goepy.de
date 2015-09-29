@@ -2,8 +2,8 @@ Ostern und Treffen am 04.04.2013
 ###############################################################################
 
 :date: 2013-03-21 22:45
-:author: Oliver Schmitt
-:category: Aktuell
+:author: Oliver Wannenwetsch
+:category: Termine
 :tags: Termin
 
 -- English Text below --

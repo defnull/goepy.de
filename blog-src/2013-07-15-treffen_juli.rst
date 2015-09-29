@@ -2,8 +2,8 @@ Treffen 25. Juli 2013
 ###############################################################################
 
 :date: 2013-07-15 18:00
-:author: Oliver Schmitt
-:category: Aktuell
+:author: Oliver Wannenwetsch
+:category: Termine
 :tags: Termin
 
 Liebe Python-Freunde,

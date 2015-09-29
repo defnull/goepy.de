@@ -2,8 +2,8 @@ Treffen 23. Januar 2014
 ###############################################################################
 
 :date: 2014-01-20 22:14
-:author: Oliver Schmitt
-:category: Aktuell
+:author: Oliver Wannenwetsch
+:category: Termine
 :tags: Termin
 
 Liebe Python-Freunde,

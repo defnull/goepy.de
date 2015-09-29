@@ -2,8 +2,8 @@ Treffen 20. März 2014
 ###############################################################################
 
 :date: 2014-03-15 15:00
-:author: Oliver Schmitt
-:category: Aktuell
+:author: Oliver Wannenwetsch
+:category: Termine
 :tags: Termin
 
 Liebe Python-Freunde,

@@ -2,8 +2,8 @@ Frohe Weihnachten
 ###############################################################################
 
 :date: 2012-12-23 14:44
-:author: Oliver Schmitt
-:category: Aktuell
+:author: Oliver Wannenwetsch
+:category: Termine
 :tags: Termin
 
 Das Jahr 2012 neigt sich dem Ende zu. Daher wünschen wir allen Python-Freunden frohe Weihnachten und einen guten Start in 2013.  

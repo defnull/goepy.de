@@ -2,8 +2,8 @@ Treffen 22. Mai 2014
 ###############################################################################
 
 :date: 2014-05-19 22:00
-:author: Oliver Schmitt
-:category: Aktuell
+:author: Oliver Wannenwetsch
+:category: Termine
 :tags: Termin
 
 Liebe Python-FreundInnen,

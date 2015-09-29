@@ -2,8 +2,8 @@ Treffen 28. November 2013
 ###############################################################################
 
 :date: 2013-11-28 22:45
-:author: Oliver Schmitt
-:category: Aktuell
+:author: Oliver Wannenwetsch
+:category: Termine
 :tags: Termin
 
 Liebe Python-Freunde,

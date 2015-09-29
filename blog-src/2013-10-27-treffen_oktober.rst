@@ -2,8 +2,8 @@ Treffen 31. Oktober 2013
 ###############################################################################
 
 :date: 2013-10-27 14:12
-:author: Oliver Schmitt
-:category: Aktuell
+:author: Oliver Wannenwetsch
+:category: Termine
 :tags: Termin
 
 Liebe Python-Freunde,

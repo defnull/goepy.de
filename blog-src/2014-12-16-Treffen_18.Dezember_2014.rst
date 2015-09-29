@@ -2,8 +2,8 @@ Treffen 18. Dezember 2014
 ###############################################################################
 
 :date: 2014-12-16 20:23
-:author: Oliver Schmitt
-:category: Aktuell
+:author: Oliver Wannenwetsch
+:category: Termine
 :tags: Termin
 
 Liebe Python-Freundinnen, liebe Python-Freunde,

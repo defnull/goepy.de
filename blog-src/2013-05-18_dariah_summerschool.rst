@@ -2,8 +2,8 @@ DARIAH-DE Summer-School - Pythonkurs für Geisteswissenschaftler in Göttingen
 ###############################################################################
 
 :date: 2013-05-18 12:01
-:author: Oliver Schmitt
-:category: Aktuell
+:author: Oliver Wannenwetsch
+:category: Termine
 :tags: Termin
 
 Liebe Geisteswissenschaftler, liebe Python-Freunde,

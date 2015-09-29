@@ -2,8 +2,8 @@ Ergebnisse Code Golf Session
 ###############################################################################
 
 :date: 2013-11-10 13:45
-:author: Oliver Schmitt
-:category: Aktuell
+:author: Oliver Wannenwetsch
+:category: Termine
 :tags: Termin
 
 Liebe Python-Freunde,

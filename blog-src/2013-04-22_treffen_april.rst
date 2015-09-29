@@ -2,8 +2,8 @@ Treffen 25. April 2013
 ###############################################################################
 
 :date: 2013-04-22 22:10
-:author: Oliver Schmitt
-:category: Aktuell
+:author: Oliver Wannenwetsch
+:category: Termine
 :tags: Termin
 
 -- English Text below --

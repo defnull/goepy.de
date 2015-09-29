@@ -2,8 +2,8 @@ Treffen 19. Juni 2014
 ###############################################################################
 
 :date: 2014-06-17 21:02
-:author: Oliver Schmitt
-:category: Aktuell
+:author: Oliver Wannenwetsch
+:category: Termine
 :tags: Termin
 
 Liebe Python-Freundinnen, liebe Python-Freunde,
