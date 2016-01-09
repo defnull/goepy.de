@@ -35,6 +35,9 @@ LINKS = (
 STATIC_PATHS = ["static", "pdf", "images"]
 
 # A list of files to copy from the source to the destination
-FILES_TO_COPY = (('static/robots.txt', 'robots.txt'),
-                 ('static/favicon.ico', 'favicon.ico'),)
+EXTRA_PATH_METADATA = {
+    'static/robots.txt': {'path': 'robots.txt'},
+    'static/static/favicon.ico': {'path': 'favicon.ico'},
+}
+
 
