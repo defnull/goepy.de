@@ -15,6 +15,4 @@ Als Thema schauen wir uns Python-Bytecode an und erklären wie Python-Code im C-
 Bis nächste Woche und viele Grüße
 Marcel und Oliver
 
-Marcel und Oliver
-
 [1] [Modulbeschreibung Python Bytecode Disassembler](https://docs.python.org/2/library/dis.html)
