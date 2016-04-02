@@ -16,6 +16,9 @@ Thema diesmal ist **Spieleprogrammierung mit Python**. Marcel stellt hierzu die 
 * Wie behandlet man Eingaben von Tastatur und Maus?
 * Welche Tricks gibt es bei der Programmierung von Spielen mit Python
 
+![Screenshot](https://raw.githubusercontent.com/deltaflyer/boringflightsim/master/graphics/screenshot.png)
+Screenshot Boring Flightsim
+
 Für Getränke ist auch wieder gesorgt. Bis dahin und viele Grüße,
 
 Marcel und Oliver
